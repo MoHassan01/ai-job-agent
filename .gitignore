@@ -1,0 +1,17 @@
+# Environment & Secrets
+.env
+token.json
+pi_python_creds.json
+*creds*.json
+*secret*.json
+
+# Personal Data & Database
+resume.pdf
+*.pdf
+applications.db
+*.csv
+
+# Python Virtual Environment & Cache
+venv/
+__pycache__/
+*.pyc
